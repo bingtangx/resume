@@ -71,6 +71,55 @@ technologies and frameworks.
 * Project Direction
   : Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
   
+### Programming Languages
+
+---------------------
+* Java
+* Shell
+* JavaScript
+* Phython
+
+### Markup/Templating Languages
+
+-------------------------------
+* [CSS](http://www.w3.org/Style/CSS/Overview.en.html)
+* [HTML](http://developers.whatwg.org)
+* [JSP](http://www.oracle.com/technetwork/java/javaee/jsp)
+* [JSTL](http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html)
+* [LESS](http://lesscss.org)
+* [Markdown](http://daringfireball.net/projects/markdown)
+* [Sass](http://sass-lang.com)
+* [Xml](http://smarty.net)
+* [Xsd](http://paularmstrong.github.io/swig)
+
+### Frameworks
+
+----------
+* [jQuery](http://jquery.com)
+* [Backbone.js](http://backbonejs.org)
+* [Underscore.js](http://underscorejs.org)
+* [Underscore.js](http://underscorejs.org)
+* [Underscore.js](http://underscorejs.org)
+
+
+### Software & Tools
+
+--------------------
+- [Git](http://git-scm.com)
+- [JBoss](http://jboss.org)
+- [Jenkins](https://jenkins-ci.org)
+- [JIRA](http://atlassian.com/software/jira)
+- [Mac OS X](http://apple.com/macosx)
+- [Magento](http://magento.com)
+- [MongoDB](http://mongodb.org)
+- [PostgreSQL](http://postgresql.org)
+- [rvm](http://rvm.beginrescueend.com)
+- [Subversion](http://svn.apache.org)
+- [Tomcat](http://tomcat.apache.com)
+- [Vagrant](http://vagrantup.com)
+- [Vim](http://www.vim.org)
+- [VirtualBox](http://virtualbox.org)
+  
 ### Honors & Awards
 
 -------------------
