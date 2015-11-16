@@ -1,14 +1,11 @@
-Yanjun Shen
-=============
+# Yanjun Shen
+## Senior Software Engineer
 
-Senior Software Engineer
------------------------
-
-- Phone: [+86 136-3630-8014](tel://+86 136-3630-8014)
-- Email: <yan2@outlook.com>
-
-Summary
--------
+> Phone: (+86) 136-3630-8014  
+> Email: [yan2@outlook.com](yan2@outlook.com)  
+    
+------
+### Summary {#Summary}
 
 I am an experienced Java developer who has led development for multiple
 successful $1MM+ projects. I am passionate about building high quality apps and
@@ -16,9 +13,8 @@ user interfaces with modern web technologies. Through being conversant in
 server-side engineering, visual/UX design, and project management practices,
 I am able to execute end-to-end on a product or project.
 
-
-Specialties
------------
+------
+### Specialties {#Specialties}
 
 Authoring great user experiences with JavaScript, HTML, and CSS. Advocating for
 the open web. Managing and mentoring dev teams. Performing code reviews.
@@ -26,140 +22,109 @@ Writing white papers and API documentation. Particating in the black art of
 software estimation. Drawing from a strong background in many diverse web
 technologies and frameworks.
 
+------
+### Experience {#Experience}
 
-Experience
-----------
+Ericsson BUSS Shanghai
+: *Senior Software Engineer*
+  **July 2014 - Present**
 
-### **Senior Software Engineer** at [Ericsson BUSS Shanghai](http://www.ericsson.com/)
+  As a member of the Solution Innovations team, I am creating a RWD pattern library 
+  as the system of record and living style guide for the next version of the Magento 
+  reference store. I also support sales activities by building and deploying various 
+  tools and services, such as a third-party JavaScript app that enables users to 
+  annotate any website with content authored in a WordPress blog.
 
-*July 2013 - Present*
+: *Software Engineer*
+  **July 2013 - Nov 2014 (1 year)**
 
-As a member of the Solution Innovations team, I am creating a RWD pattern
-library as the system of record and living style guide for the next version of
-the Magento reference store. I also support sales activities by building and
-deploying various tools and services, such as a third-party JavaScript app that
-enables users to annotate any website with content authored in a WordPress
-blog.
+  As a member of the Solution Innovations team, I am creating a RWD pattern library 
+  as the system of record and living style guide for the next version of the Magento 
+  reference store. I also support sales activities by building and deploying various 
+  tools and services, such as a third-party JavaScript app that enables users to 
+  annotate any website with content authored in a WordPress blog.
+  
+Ericsson COE Fulfillment
+: *Software Engineer*
+  __April 2011 - June 2013 (2 years)__
 
-### **Software Engineer** at [Ericsson COE Fulfillment](http://www.ericsson.com/)
+  Championed a more collaborative process for responsive web design between the
+  UX and development disciplines. Curated an internal static web framework and
+  responsive pattern library to be used on multiple projects. Lead development
+  on responsive prototypes for NBC Universal, DIRECTV, AIG, Lionsgate, and the
+  USA Network.
 
-*April 2011 - June 2013* (2 years)
 
-Championed a more collaborative process for responsive web design between the
-UX and development disciplines. Curated an internal static web framework and
-responsive pattern library to be used on multiple projects. Lead development
-on responsive prototypes for NBC Universal, DIRECTV, AIG, Lionsgate, and the
-USA Network.
+------
+### Skills & Expertise
 
-### **Web Developer** at [Empathy Lab](http://empathylab.com)
+* Web Design
+  : Assertively exploit wireless initiatives rather than synergistic core competencies.
 
-*April 2009 - April 2010* (1 year 1 month)
+* Interface Design
+  : Credibly streamline mission-critical value with multifunctional functionalities.
 
-Authored standards-based HTML, CSS, and JavaScript for websites representing
-a broad range of internationally recognized brands: Sesame Street, Sprout,
-Lexmark, StrideRite, Walgreens, Verizon, Comcast, 21st Century Insurance,
-Liberty Global, American Red Cross.
+* Project Direction
+  : Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
 
-Skills & Expertise
-------------------
+------
+### Program Languages
 
-These are languages, tools, and practices to which I have had exposure over the
-past 6 years or so. Those things which enjoy routine usage in my daily work are
-denoted with a ^†^ symbol.
+* Java
 
-### Programming Languages
+* Shell
 
-- [JavaScript](http://developer.mozilla.org/en/JavaScript)^†^
-- [PHP](http://php.net)
-- [Ruby](http://ruby-lang.org)^†^
+* JavaScript
 
-### Markup/Templating Languages & Preprocessors
+* Phython
 
-- [CoffeeScript](http://coffeescript.org)
-- [CSS](http://www.w3.org/Style/CSS/Overview.en.html)^†^
-- [Dust.js](http://linkedin.github.io/dustjs)
-- [ERB/eRuby](http://en.wikipedia.org/wiki/ERuby)
-- [Haml](http://haml.info)
-- [Handlebars.js](http://handlebarsjs.com)
-- [HTML](http://developers.whatwg.org)^†^
-- [Jade](http://jade-lang.com)
-- [JSP](http://www.oracle.com/technetwork/java/javaee/jsp)
-- [JSTL](http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html)
-- [LESS](http://lesscss.org)^†^
-- [Liquid](http://liquidmarkup.org)
-- [Markdown](http://daringfireball.net/projects/markdown)^†^
-- [Mustache](http://mustache.github.io)
-- [Sass](http://sass-lang.com)^†^
-- [Smarty](http://smarty.net)
-- [Swig](http://paularmstrong.github.io/swig)
-- [Stylus](http://learnboost.github.io/stylus)
+------
+### Markup/Templating Languages
 
-### Frameworks & APIs
+* [CSS](http://www.w3.org/Style/CSS/Overview.en.html)
+* [HTML](http://developers.whatwg.org)
+* [JSP](http://www.oracle.com/technetwork/java/javaee/jsp)
+* [JSTL](http://docs.oracle.com/javaee/5/tutorial/doc/bnakc.html)
+* [LESS](http://lesscss.org)
+* [Markdown](http://daringfireball.net/projects/markdown)
+* [Sass](http://sass-lang.com)
+* [Xml](http://smarty.net)
+* [Xsd](http://paularmstrong.github.io/swig)
 
-- [Backbone.js](http://backbonejs.org)^†^
-- [Bower](http://bower.io)
-- [Browserify](http://browserify.org)^†^
-- [Compass](http://compass-style.org)^†^
-- [Django](http://www.djangoproject.com)
-- [Express](http://expressjs.com)^†^
-- [Jasmine](http://jasmine.github.io)
-- [jQuery](http://jquery.com)^†^
-- [krakenjs](http://krakenjs.com)
-- [Lodash](http://lodash.com)^†^
-- [Meteor](http://meteor.com)
-- [Middleman](http://middlemanapp.com)
-- [Node.js](http://nodejs.org)^†^
-- [Prototype.js](http://prototypejs.org)
-- [React](http://facebook.github.io/react)
-- [Require.js](http://requirejs.org)^†^
-- [Ruby on Rails](http://rubyonrails.org)
-- [Sinatra](http://sinatrarb.com)
-- [Twitter API](http://dev.twitter.com)
-- [Underscore.js](http://underscorejs.org)^†^
-- [Wordpress](http://wordpress.org)
-- [YUI](http://developer.yahoo.com/yui)
+Frameworks
 
-### Software & Tools
+* [jQuery](http://jquery.com)
+* [Backbone.js](http://backbonejs.org)
+* [Underscore.js](http://underscorejs.org)
+* [Underscore.js](http://underscorejs.org)
+* [Underscore.js](http://underscorejs.org)
 
-- [Adobe Creative Suite](http://www.adobe.com/products/creativesuite.html)^†^
-- [Amazon Web Services](http://aws.amazon.com)
-- [Apache](http://apache.org)^†^
-- [Apple XCode](http://developer.apple.com)
-- [Demandware](http://demandware.com)
-- [Git](http://git-scm.com)^†^
-- [Grunt](http://gruntjs.com)^†^
-- [Gulp](http://gulpjs.com)^†^
+
+Software & Tools
+ 
+- [Git](http://git-scm.com)
 - [JBoss](http://jboss.org)
-- [JIRA](http://atlassian.com/software/jira)^†^
-- [Mac OS X](http://apple.com/macosx)^†^
-- [Magento](http://magento.com)^†^
-- [MongoDB](http://mongodb.org)^†^
-- [MySQL](http://mysql.com)
-- [Nginx](http://wiki.nginx.org)
-- [Oracle ATG](http://www.oracle.com/us/products/applications/web-commerce/atg)
-- [Pandoc](http://johnmacfarlane.net/pandoc)
+- [Jenkins](https://jenkins-ci.org)
+- [JIRA](http://atlassian.com/software/jira)
+- [Mac OS X](http://apple.com/macosx)
+- [Magento](http://magento.com)
+- [MongoDB](http://mongodb.org)
 - [PostgreSQL](http://postgresql.org)
-- [rvm](http://rvm.beginrescueend.com)^†^
-- [Sublime Text](http://www.sublimetext.com)
+- [rvm](http://rvm.beginrescueend.com)
 - [Subversion](http://svn.apache.org)
-- [tmux](http://tmux.sourceforge.net)^†^
 - [Tomcat](http://tomcat.apache.com)
-- [Ubuntu Linux](http://ubuntu.com)
 - [Vagrant](http://vagrantup.com)
-- [Vim](http://www.vim.org)^†^
-- [VirtualBox](http://virtualbox.org)^†^
-- [WebStorm](http://jetbrains.com/webstorm)
-- [Yeoman](http://yeoman.io)
-- [zsh](http://www.zsh.org)^†^
+- [Vim](http://www.vim.org)
+- [VirtualBox](http://virtualbox.org)
 
-Education
----------
+------
+### Education {#Experience}
 
-[Tongji University](http://www.tongji.edu.cn), School of Software Engineering    
-BS, Software Engineering, 2007 - 2011
+  [Tongji](http://www.tongji.edu.cn) University, School of Software Engineering    
+  BS, Software Engineering, 2007 - 2011
 
-Honors and Awards
------------------
+------
+### Honors & Awards
 
 *The Best New Comer of the Year*, Ericsson COE Fulfillment, January 2012
 
