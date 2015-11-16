@@ -1,5 +1,6 @@
-Yanjun Shen    
--------------------
+## Yanjun Shen
+    
+--------------
 #### Senior Software Engineer
 
 > ###### Phone: (+86) 136-3630-8014   
@@ -77,17 +78,17 @@ technologies and frameworks.
 
 *   [Tongji University](http://www.tongji.edu.cn) (School of Software Engineering)
 
-    *B.S. in Software Engineering*, ___July 2011___
+    *B.S. in Software Engineering*, _July 2011_
 
 ### Honors & Awards
 
 -------------------
 
-*   *"Hackthon First Prize"*, Ericsson BUSS Shanghai, September 2015
-*   *"Quarterly Star Team"*, Ericsson BUSS Shanghai, Q1 2015
-*   *"Monthly Star"*, Ericsson BUSS Shanghai, December 2013
-*   *"Monthly Star"*, Ericsson COE Fulfillment, January 2013
-*   *"The Best New Comer of the Year"*, Ericsson COE Fulfillment, January 2012
+*   *"Hackthon First Prize"*, Ericsson BUSS Shanghai, _September 2015_
+*   *"Quarterly Star Team"*, Ericsson BUSS Shanghai, _Q1 2015_
+*   *"Monthly Star"*, Ericsson BUSS Shanghai, _December 2013_
+*   *"Monthly Star"*, Ericsson COE Fulfillment, _January 2013_
+*   *"The Best New Comer of the Year"*, Ericsson COE Fulfillment, _January 2012_
 
 ### Interests
 
