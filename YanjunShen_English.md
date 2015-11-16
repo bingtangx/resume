@@ -3,8 +3,8 @@
 --------------
 #### Senior Software Engineer
 
-> ###### Phone: (+86) 136-3630-8014   
-> ###### Email: [yan2@outlook.com](yan2@outlook.com)
+> ###### Mobile: (+86) 136-3630-8014   
+> ###### Email:  [yan2@outlook.com](yan2@outlook.com)
 
 ### Summary
 
@@ -53,16 +53,16 @@ technologies and frameworks.
 
     *Java Developer Intern*, ___Aug 2010 - April 2011 (8 month)___
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
+    -   Participate in [SAAS](https://en.wikipedia.org/wiki/Software_as_a_service) software development.
+    -   Take main responsibity for *"Successor Module"* new feature development and maintainence.
+	-   Develop new GUI front-end widgets using internal JS framework based on [jQuery](http://jquery.com).
+	-   Maintain Java back-end working on [JBoss EAP](http://www.jboss.org/products/eap/overview/) which is using Spring-like internal framework. 
+    -   Implement an *"One Textbox Search"* based on [Solr](http://lucene.apache.org/solr/) & [Lucene](http://lucene.apache.org/) independently.
 
 ### Skills
 
 ----------
 * Web Design
-
   : Assertively exploit wireless initiatives rather than synergistic core competencies.
 
 * Interface Design
@@ -70,16 +70,7 @@ technologies and frameworks.
 
 * Project Direction
   : Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
-
-
-### Education
-
--------------
-
-*   [Tongji University](http://www.tongji.edu.cn) (School of Software Engineering)
-
-    *B.S. in Software Engineering*, _July 2011_
-
+  
 ### Honors & Awards
 
 -------------------
@@ -90,11 +81,19 @@ technologies and frameworks.
 *   *"Monthly Star"*, Ericsson COE Fulfillment, _January 2013_
 *   *"The Best New Comer of the Year"*, Ericsson COE Fulfillment, _January 2012_
 
+### Education
+
+-------------
+
+*   [Tongji University](http://www.tongji.edu.cn) (School of Software Engineering)
+
+    *B.S. in Software Engineering*, _July 2011_
+
 ### Interests
 
 -------------
 
-*   Photography.
+*   Landscape Photography.
 *   Night Running.
 *   Dive in the deep sea.
 *   Travel with friends.
