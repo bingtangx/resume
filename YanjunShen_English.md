@@ -1,7 +1,15 @@
+<!--
+author: Yanjun Shen
+date: 2015-12-01
+title: Hello Yanjun!
+tags: resume
+category: resume
+summary: Yanjun Shen, Senior Software Engineer, (+86) 136-3630-8014 
+-->
 # Yanjun Shen
 ## Senior Software Engineer
 -----------
-> Gender: Male, Working Years: 4.5, Place of Birth: Shanghai
+> Gender: Male, Working Years: 4.5, Place of Birth: Shanghai  
 > Phone: (+86) 136-3630-8014  
 > Email: [yan2@outlook.com](yan2@outlook.com)  
 
